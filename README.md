@@ -5,6 +5,6 @@ Original mail, sent it on 25 augost of 2013
 ![Original mail, sent it on 25 augost of 2013](imgs/Mail.png)
 It was made on an old version of Python, (2.x) I dont remember the exactly version.
 Here you will find the original code and a remake that i made on 24/5/2023, so its a 10 years remake for a unusable code.  
-This is how the output looks like :)
+This is how its looks like :)
 ![This is how the output looks like :)](imgs/captura.png)
 
